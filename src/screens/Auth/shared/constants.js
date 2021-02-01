@@ -1,0 +1,6 @@
+export const LOGIN_METHOD = { EMAIL: 0, PHONE: 1 }
+
+export const PHONE_VERIFICATION_ACTIONS = {
+  LOG_IN: 0,
+  RESTORE_PASSWORD: 1,
+}

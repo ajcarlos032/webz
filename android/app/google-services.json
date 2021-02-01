@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "972140977270",
+    "firebase_url": "https://webiz-3a442.firebaseio.com",
+    "project_id": "webiz-3a442",
+    "storage_bucket": "webiz-3a442.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972140977270:android:5029a8f9366818c8c95357",
+        "android_client_info": {
+          "package_name": "com.cyberfuze.webiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972140977270-qbget01qm8ofbbhodbbgq32mh59ahcmh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_XNbfa52qhai4E5Doj8Zizfc_PR8rcc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972140977270-qbget01qm8ofbbhodbbgq32mh59ahcmh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "972140977270-c70mg15lm8ig7frhtoqom2ubd1k6ctrh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cyberfuze.webiz"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972140977270:android:554775d05a78d868c95357",
+        "android_client_info": {
+          "package_name": "com.webiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972140977270-qbget01qm8ofbbhodbbgq32mh59ahcmh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_XNbfa52qhai4E5Doj8Zizfc_PR8rcc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972140977270-qbget01qm8ofbbhodbbgq32mh59ahcmh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "972140977270-c70mg15lm8ig7frhtoqom2ubd1k6ctrh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cyberfuze.webiz"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

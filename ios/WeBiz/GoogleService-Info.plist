@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>972140977270-681ee6a16hglc9togeltsiluuqq5j255.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.972140977270-681ee6a16hglc9togeltsiluuqq5j255</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDyNi0mR5by5MkL0zZobi6XZh7MxQWjiuw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>972140977270</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ohadis.GreenBook.webiz</string>
+	<key>PROJECT_ID</key>
+	<string>webiz-3a442</string>
+	<key>STORAGE_BUCKET</key>
+	<string>webiz-3a442.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:972140977270:ios:08d0fb01b8f89265c95357</string>
+	<key>DATABASE_URL</key>
+	<string>https://webiz-3a442.firebaseio.com</string>
+</dict>
+</plist>
